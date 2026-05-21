@@ -2,11 +2,12 @@
 
 # Hi 👋, I'm Shreesha M P
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Scalable+AI+Applications;Java+%7C+React+%7C+Node.js+%7C+Python;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=AI+%26+Full+Stack+Developer;Building+Scalable+AI+Applications;Java+%7C+React+%7C+Node.js+%7C+Python;Software+Engineer" />
 
 <br/>
 
 🎓 Information Science Engineering Student  
+   sowftware engineer
 💻 AI & Full Stack Developer  
 🚀 Building scalable real-world applications  
 🧠 Interested in AI Systems, Backend Engineering & Problem Solving
@@ -31,7 +32,7 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,reactjs,css,tailwind&theme=dark" />
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
@@ -106,7 +107,7 @@ AI calorie detection app using image upload + Gemini API.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Inter&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/shreesha___7/theme=dark&font=Inter&ext=heatmap" />
 
 </div>
 
@@ -116,15 +117,15 @@ AI calorie detection app using image upload + Gemini API.
 
 <div align="center">
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:shreeshasr7@gmail.com">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/shreeshampas78/">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/shreesha732">
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
