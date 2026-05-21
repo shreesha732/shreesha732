@@ -7,7 +7,6 @@
 <br/>
 
 🎓 Information Science Engineering Student  
-   sowftware engineer
 💻 AI & Full Stack Developer  
 🚀 Building scalable real-world applications  
 🧠 Interested in AI Systems, Backend Engineering & Problem Solving
@@ -32,16 +31,16 @@
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp&theme=dark" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=react,html,reactjs,css,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,socketio&theme=dark" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
-### Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode&theme=dark" />
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,vercel,render&theme=dark" />
 
 ---
 
@@ -50,19 +49,19 @@
 ## 🧠 Adaptive Interview Training Platform
 AI-powered interview simulator using LLMs, NLP, OpenCV & Flask.
 
-### Features:
+### Features
 - Adaptive AI interview questions
-- Real-time feedback
-- Communication analysis
+- Real-time feedback generation
+- Communication quality analysis
 - Facial expression tracking
-- Cloud deployment
+- Cloud deployment on AWS
 
 ---
 
 ## 📄 Google Docs Clone
 Real-time collaborative document editor using React, Socket.io & MongoDB.
 
-### Features:
+### Features
 - Live collaboration
 - Real-time syncing
 - Rich text editing
@@ -73,11 +72,11 @@ Real-time collaborative document editor using React, Socket.io & MongoDB.
 ## 🍎 CalSnap
 AI calorie detection app using image upload + Gemini API.
 
-### Features:
+### Features
 - Detect calories from food images
 - Health score analysis
-- AI-generated insights
-- Nutrition tracking
+- AI-generated nutrition insights
+- Smart food tracking
 
 ---
 
@@ -85,9 +84,9 @@ AI calorie detection app using image upload + Gemini API.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=shreesha732&show_icons=true&theme=tokyonight" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreesha732&layout=compact&theme=tokyonight" height="180"/>
 
 </div>
 
@@ -97,7 +96,7 @@ AI calorie detection app using image upload + Gemini API.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=shreesha732&theme=tokyonight"/>
 
 </div>
 
@@ -107,7 +106,7 @@ AI calorie detection app using image upload + Gemini API.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/shreesha___7/theme=dark&font=Inter&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/shreesha___7?theme=dark&font=Inter&ext=heatmap" />
 
 </div>
 
