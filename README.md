@@ -107,7 +107,7 @@ AI calorie detection app using image upload + Gemini API.
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/shreesha___7/theme=dark&font=Inter&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/shreesha___7/theme=dark&font=Inter&ext=heatmap" />
 
 </div>
 
