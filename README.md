@@ -46,15 +46,17 @@
 
 # 💼 Featured Projects
 
-## 🧠 Adaptive Interview Training Platform
-AI-powered interview simulator using LLMs, NLP, OpenCV & Flask.
+## 🚀 InterviewAI: Next-Gen AI Interview Platform
+**[Live Demo](https://ai-interview-8crizdis1-shreeshas-projects-9c630a50.vercel.app/)** | **[Source Code](https://github.com/shreesha732/Ai-interview)**
 
-### Features
-- Adaptive AI interview questions
-- Real-time feedback generation
-- Communication quality analysis
-- Facial expression tracking
-- Cloud deployment on AWS
+A full-stack, enterprise-grade AI SaaS application that conducts adaptive, real-time technical and behavioral interviews.
+
+### 🌟 Key Features
+- **Client-Side Computer Vision:** Real-time facial expression and attention tracking using **MediaPipe**.
+- **LLM-Powered NLP Engine:** Powered by **Groq Llama 3** for parsing resumes and generating adaptive questions.
+- **Modern Architecture:** Built with a scalable **React/Vite** frontend and a **Python/Flask** backend.
+- **Secure Infrastructure:** Integrated with **Clerk** for robust authentication and **Supabase** for PostgreSQL.
+- **Production DevOps:** Deployed globally using **Vercel** and **Render**.
 
 ---
 
