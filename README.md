@@ -47,7 +47,7 @@
 # 💼 Featured Projects
 
 ## 🚀 InterviewAI: Next-Gen AI Interview Platform
-**[Live Demo](https://ai-interview-8crizdis1-shreeshas-projects-9c630a50.vercel.app/)** | **[Source Code](https://github.com/shreesha732/Ai-interview)**
+**[Live Demo](https://ai-interview-silk-nu.vercel.app/)** | **[Source Code](https://github.com/shreesha732/Ai-interview)**
 
 A full-stack, enterprise-grade AI SaaS application that conducts adaptive, real-time technical and behavioral interviews.
 
@@ -61,6 +61,8 @@ A full-stack, enterprise-grade AI SaaS application that conducts adaptive, real-
 ---
 
 ## 📄 Google Docs Clone
+**[Live Demo](https://google-docs-clone-7mcu.onrender.com)**
+
 Real-time collaborative document editor using React, Socket.io & MongoDB.
 
 ### Features
